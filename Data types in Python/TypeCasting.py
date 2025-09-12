@@ -1,0 +1,10 @@
+Name='Adithya'
+Age=11
+Weight=49.8
+Student=True
+Age=str(Age)
+print(type(Age))
+Weight=int(Weight)
+print(type(Weight))
+Age=float(Age)
+print(type(Age))
